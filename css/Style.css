@@ -1,0 +1,94 @@
+#contenedor{
+    width: 700px;
+    height: 700px;
+    background-color: aquamarine;
+    margin: auto;
+    
+}
+#oreja1{
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+    background-color: darkgoldenrod;
+    position: absolute;
+    top: 50px;
+    left: 550px;
+    border-radius: 50%;
+}
+#cabeza{
+    width: 200px;
+    height: 200px;
+    background-color: darkgoldenrod;
+    display: inline-block;
+    position: relative;
+    top: 20px;
+    left: 250px;
+    border-radius: 50%;
+
+}
+#oreja2{
+    width: 80px;
+    height: 80px;
+    background-color: darkgoldenrod;
+    display: inline-block;
+    position: absolute;
+    top: 50px;
+    left: 770px;
+    border-radius: 50%;
+}
+#brazo1{
+    width: 200px;
+    height: 80px;
+    display: block;
+    background-color: darkgoldenrod;
+    position: absolute;
+    top: 260px;
+    left: 510px;
+    border-radius: 50%;
+    transform: rotate(45deg);
+}
+#cuerpo{
+    width: 250px;
+    height: 250px;
+    background-color: darkgoldenrod;
+    display: block;
+    position: relative;
+    top: 0px;
+    left: 230px;
+    border-radius: 50%;
+
+}
+#brazo2{
+    width: 80px;
+    height: 200px;
+    display: block;
+    background-color: darkgoldenrod;
+    position: absolute;
+    top: 200px;
+    left: 785px;
+    border-radius: 50%;
+    transform: rotate(45deg);
+}
+#pierna1{
+    width: 100px;
+    height: 150px;
+    display: block;
+    background-color: darkgoldenrod;
+    position: absolute;
+    top: 360px;
+    left: 550px;
+    border-radius: 50%;
+    transform: rotate(45deg);
+}
+#pierna2{
+    width: 150px;
+    height: 100px;
+    background-color: darkgoldenrod;
+    display: inline-block;
+    position: absolute;
+    top: 390px;
+    left: 750px;
+    border-radius: 50%;
+    transform: rotate(45deg);
+
+}
